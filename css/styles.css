@@ -83,8 +83,7 @@ a {
 }
 .hero-buy-btn {
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-  color: var(--WHITE, #fff);
+  color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
